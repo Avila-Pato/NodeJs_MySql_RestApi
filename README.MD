@@ -2,6 +2,16 @@
 
 Este proyecto se basa en gestionar un crud de empleados con las siguientes funcionalidades: agregar, actualizar, eliminar y buscar empleados. Ademas de manejo de errores y Not Found con rutas que no existen y por ultimo se agrega una variable de entorno
 
+## Tecnologías Utilizadas
+- Node.js: Entorno de ejecución para JavaScript en el servidor.
+- Express.js: Framework para crear aplicaciones web y APIs con Node.js.
+- MySQL: Sistema de gestión de bases de datos relacional.
+- REST: Arquitectura utilizada para la creación de APIs RESTful.
+- ENV: Gestión de variables de entorno para la configuración segura del entorno de desarrollo y producción.
+- Thunder Client: Extensión en Visual Studio Code utilizada para realizar pruebas de API.
+
+
+
 ## Funcionalidades
 
 1. **Agregar Empleados**  
@@ -35,13 +45,5 @@ Este proyecto se basa en gestionar un crud de empleados con las siguientes funci
    ![Eliminar Empleado](./src/assets/Delete.png)
 
 ---
-
-## Tecnologías Utilizadas
--Node.js: Entorno de ejecución para JavaScript en el servidor.
--Express.js: Framework para crear aplicaciones web y APIs con Node.js.
--MySQL: Sistema de gestión de bases de datos relacional.
--REST: Arquitectura utilizada para la creación de APIs RESTful.
--ENV: Gestión de variables de entorno para la configuración segura del entorno de desarrollo y producción.
--Thunder Client: Extensión en Visual Studio Code utilizada para realizar pruebas de API.
 
 
