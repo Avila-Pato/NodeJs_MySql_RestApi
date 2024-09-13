@@ -1,6 +1,6 @@
 # CRUD de Empleados
 
-Este proyecto se basa en gestionar un crud de empleados con las siguientes funcionalidades: agregar, actualizar, eliminar y buscar empleados. Ademas de manejo de errores y Not Found con rutas que no existen
+Este proyecto se basa en gestionar un crud de empleados con las siguientes funcionalidades: agregar, actualizar, eliminar y buscar empleados. Ademas de manejo de errores y Not Found con rutas que no existen y por ultimo se agrega una variable de entorno
 
 ## Funcionalidades
 
