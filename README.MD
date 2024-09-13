@@ -1,6 +1,6 @@
 # CRUD de Empleados
 
-Este proyecto es una API para gestionar empleados con las siguientes funcionalidades: agregar, actualizar, eliminar y buscar empleados.
+Este proyecto se basa en gestionar un crud de empleados con las siguientes funcionalidades: agregar, actualizar, eliminar y buscar empleados. Ademas de manejo de errores y Not Found con rutas que no existen
 
 ## Funcionalidades
 
@@ -42,6 +42,7 @@ Este proyecto es una API para gestionar empleados con las siguientes funcionalid
 - Express.js
 - MySQL
 - Rest
+-.ENV (para variable de entorno)
 - Thunder (para pruebas)
 
 
