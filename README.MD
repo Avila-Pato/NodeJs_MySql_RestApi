@@ -1,6 +1,6 @@
 # CRUD de Empleados
 
-Este proyecto es una API para gestionar empleados con las siguientes funcionalidades: agregar, actualizar, eliminar y buscar empleados.
+Este proyecto se basa en gestionar un crud de empleados con las siguientes funcionalidades: agregar, actualizar, eliminar y buscar empleados. Ademas de manejo de errores
 
 ## Funcionalidades
 
