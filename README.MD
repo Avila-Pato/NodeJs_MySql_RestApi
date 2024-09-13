@@ -42,6 +42,7 @@ Este proyecto se basa en gestionar un crud de empleados con las siguientes funci
 - Express.js
 - MySQL
 - Rest
+-.ENV (para variable de entorno)
 - Thunder (para pruebas)
 
 
