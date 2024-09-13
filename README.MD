@@ -37,12 +37,11 @@ Este proyecto se basa en gestionar un crud de empleados con las siguientes funci
 ---
 
 ## Tecnologías Utilizadas
-
-- Node.js
-- Express.js
-- MySQL
-- Rest
--.ENV (para variable de entorno)
-- Thunder (para pruebas)
+-Node.js: Entorno de ejecución para JavaScript en el servidor.
+-Express.js: Framework para crear aplicaciones web y APIs con Node.js.
+-MySQL: Sistema de gestión de bases de datos relacional.
+-REST: Arquitectura utilizada para la creación de APIs RESTful.
+-ENV: Gestión de variables de entorno para la configuración segura del entorno de desarrollo y producción.
+-Thunder Client: Extensión en Visual Studio Code utilizada para realizar pruebas de API.
 
 
